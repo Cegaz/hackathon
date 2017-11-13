@@ -1,0 +1,12 @@
+{
+    "name": "guillaume/hackaton",
+    "authors": [
+        {
+            "name": "Guillaume HARARI",
+            "email": "guillaumeharari@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "mashape/unirest-php" : "3.*"
+    }
+}

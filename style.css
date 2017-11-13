@@ -1,0 +1,108 @@
+body{
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+}
+form{
+    margin-top: 15%;
+}
+.picture{
+    height: 100px;
+}
+.titleCam {
+
+	 background-color: white;
+	 width:30%;
+	  position: absolute;
+	 right: 453px;
+	 top: 280px;
+
+}
+.blanc {
+color: white;
+font-weight: bold;
+}
+.titleCam img {
+    
+    height: 15px;
+    width: auto;
+}
+.meteo_result{
+	display: flex;
+	flex-direction: row;
+}
+form p{
+    font-size: 3em;
+}
+.big{
+    font-size: 6em;
+    font-weight: bold;
+}
+.medium{
+    font-weight: bold;
+}
+.image_p{
+	background-color: white;
+	border-radius: 70px 70px;
+	padding: 30px;
+	opacity: .7;
+	margin-left: 20px;
+	width: 200px;
+	height: 500px;
+}
+.webcame{
+	position: absolute;
+	right: -200px;
+	width: 100%;
+}
+.element_menu{
+align-content: right;
+
+
+}
+#wrapper{
+	width:100%;
+}
+.bof{
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+}
+iframe{
+	border: 12px solid red;
+}
+h1{
+	color: #AAA;
+}
+.home{
+	background-color: white;
+	border-radius: 70px 70px;
+	padding: 30px;
+	opacity: .7;
+	width: 50%;
+	padding-top:0;
+	margin: auto;
+}
+.button button{
+	border: none;
+	padding: 12px;
+	border-radius: 12px;
+	box-shadow: 3px 3px 12px #999;
+	background: #FFF;
+	font-family: 'Exo';
+	font-size: 18px;
+	font-weight: bold;
+	color: #555;
+}
+.button2{
+	position: absolute;
+	bottom: 20px;
+	right: 30px;
+}
+.fourMeteos{
+	display: flex;
+	flex-direction: row;
+	margin-left: 30px;
+}
+.meteo_result_4{
+	padding:0;
+}
