@@ -1,6 +1,7 @@
 body{
     text-align: center;
     font-family: 'Exo', sans-serif;
+	background-size: cover;
 }
 form{
     margin-top: 15%;
@@ -97,6 +98,10 @@ h1{
 	position: absolute;
 	bottom: 20px;
 	right: 30px;
+}
+.button3{
+	position:absolute;
+	right:20px;
 }
 .fourMeteos{
 	display: flex;

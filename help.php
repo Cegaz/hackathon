@@ -42,6 +42,7 @@ for($i = 0; $i < 4; $i++) {
     </div>
 <?php } ?>
     <span class="button button2"><a href="help.php"><button>+ de choix svp !</button></a></span>
+    <span class="button button3"><a href="index.php"><button>retour</button></a></span>
 </div>
 </body>
 </html>
